@@ -1,0 +1,9 @@
+macOShigh sierra 
+
+MacBook Air [13inchi early2015]
+プロセッサ 1.6GHz intel Corei5
+メモリ　4g 1600MHz DDR3
+起動ディスク　Macintosh HD
+グラフィックス　intel HD Graphics 6000 1536 MB
+
+ 
